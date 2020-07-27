@@ -2,7 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushcodes1812/)
 [![Medium Badge](https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=medium)](https://medium.com/@ayush.paharia.18)
 [![Gmail Badge](https://img.shields.io/badge/ayush.paharia.18@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayush.paharia.18@gmail.com)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushpaharia.ayushpaharia)  
 
 ## Hi there 👋,           
 ##### I'm Ayush Paharia, currently a Computer Science undergrad. I believe in quality and efficient code and I'm a React fanatic. I am very enthusiastic about taking on new projects and putting in the time to make a well-done app/website.
