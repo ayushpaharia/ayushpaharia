@@ -18,4 +18,4 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushpaharia&show_icons=true)
 
-<img style="margin-left:auto, margin-right:auto" src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
