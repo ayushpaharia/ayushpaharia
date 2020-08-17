@@ -11,7 +11,7 @@
 ## 🧐 About
 - 🏄‍ Web Developer/Full Stack
 - 😄 I am an Open Source Enthusiast.
-- 🔭 I'm currently Technical Head and GirlScript J&K, UI|UX Designer with Innovatus and an App|Web developer for Follege.
+- 🔭 I'm currently Technical Head and GirlScript J&K, Fullstack Developer at Daphnis Labs and Web developer at Ai India.
 - 🌱 I’m currently learning Nodejs and MongoDB for MERN.
 - 🤔 I’m looking for help with System Design and OS concepts.
 - 🎨 Fun fact: In my free time, you'll find me playing competitive e-sport FPS games.
