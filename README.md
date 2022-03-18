@@ -9,12 +9,12 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="400px" />
 
 ## 🧐 About
-- 🏄‍ Web Developer/Full Stack
-- 😄 I am an Open Source Enthusiast.
-- 🔭 I'm currently Technical Head and GirlScript J&K, Fullstack Developer at Daphnis Labs and Web developer at Ai India.
-- 🌱 I’m currently learning Nodejs and MongoDB for MERN.
-- 🤔 I’m looking for help with System Design and OS concepts.
-- 🎨 Fun fact: In my free time, you'll find me playing competitive e-sport FPS games.
+- 🏄‍ Full Stack Developer.
+- 😄 I enjoy learning new tech.
+- 🔭 I'm currently a student working with Backend and Devops technologies.
+- 🌱 I’m currently learning Kuberbetes and about Service Meshes.
+- 🤔 I’m looking for help with System Design and DS Concepts.
+- 🎨 Fun fact: In my free time, you'll find me reading books.
 - 📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushpaharia&show_icons=true)
