@@ -12,7 +12,7 @@ const ayush = {
   languages: ["Javascript", "Typescript", "Golang", "C++", "Rust"],],
   tools: ["React", "Next", "Node", "Jest", "Cypress", "Docker", "Kubernetes"],
   cloud: ["AWS", "DigitalOcean", "Heroku"]
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven", "monoliths"],
   editors: ["VS Code", "Neovim"] 
 }
 ```
