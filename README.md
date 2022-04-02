@@ -17,6 +17,11 @@ const ayush = {
 }
 ```
 
+try this
+```
+npx ayushpaharia
+```
+
 🔭 Currently learning  **Serverless** 🔼, **Hyperledger Fabric**🟨 and **Blockchain**⛓️\
 📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
 💬 ask me about anything, i am happy to help;
