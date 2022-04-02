@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/9MT47qDL/Type-3banner.png)
+![Banner](https://i.postimg.cc/WzgXz1Gr/Genericbanner-1.png)
 
 ### hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
