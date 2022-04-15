@@ -23,8 +23,8 @@ npx ayushpaharia
 ```
 
 🔭 Currently learning  **Serverless** 🔼, **Infra**☁️ and **Blockchain**⛓️\
-📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
-💬 ask me about anything, i am happy to help;
+📫 How to reach me: mail me at [hi@ayushpaharia.me](mailto:hi@ayushpaharia.me)\
+💬 Ask me about anything, I'd be happy to help;
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushpaharia&show_icons=true&theme=gotham" alt="ayushpaharia" /></p>
