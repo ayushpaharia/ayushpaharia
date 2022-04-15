@@ -9,9 +9,9 @@ A little something **about me**
 
 ```javascript
 const ayush = {
-  languages: ["Javascript", "Typescript", "Golang", "C++", "Rust"],],
-  tools: ["React", "Next", "Node", "Jest", "Cypress", "Docker", "Kubernetes"],
-  cloud: ["AWS", "DigitalOcean", "Heroku"]
+  languages: ["Javascript", "Typescript", "Golang", "C++", "Solidity"],],
+  tools: ["React", "Nextjs", "Nodejs", "Jest", "Cypress", "Docker", "Kubernetes"],
+  cloud: ["AWS", "GCP", "Digital Ocean"]
   architecture: ["microservices", "event-driven", "monoliths"],
   editors: ["VS Code", "Neovim"] 
 }
@@ -22,7 +22,7 @@ try this
 npx ayushpaharia
 ```
 
-🔭 Currently learning  **Serverless** 🔼, **Hyperledger Fabric**🟨 and **Blockchain**⛓️\
+🔭 Currently learning  **Serverless** 🔼, **Infra**☁️ and **Blockchain**⛓️\
 📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
 💬 ask me about anything, i am happy to help;
 
