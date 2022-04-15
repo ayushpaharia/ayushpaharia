@@ -9,9 +9,9 @@ A little something **about me**
 
 ```javascript
 const ayush = {
-  languages: ["Javascript", "Typescript", "Golang", "C++", "Solidity"],],
+  languages: ["Javascript", "Typescript", "Golang", "C++", "Solidity"],
   tools: ["React", "Nextjs", "Nodejs", "Jest", "Cypress", "Docker", "Kubernetes"],
-  cloud: ["AWS", "GCP", "Digital Ocean"]
+  cloud: ["AWS", "GCP", "Digital Ocean"],
   architecture: ["microservices", "event-driven", "monoliths"],
   editors: ["VS Code", "Neovim"] 
 }
