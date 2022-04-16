@@ -4,6 +4,7 @@
 
 [<img align="left" alt="Ayush's Instagram" src="https://img.shields.io/badge/itsayushh_-30302f?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/itsayushh_)
 [<img src="https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=linkedin"/>](https://linkedin.com/in/ayushpaharia)
+
 [<img src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://rb.gy/ioozdg)
 
 A little something **about me**
