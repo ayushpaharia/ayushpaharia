@@ -7,6 +7,8 @@
 
 [<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://rb.gy/ioozdg)<br/>
 
+Currently building my portfolio 👨‍💻
+
 A little something **about me**
 
 ```javascript
