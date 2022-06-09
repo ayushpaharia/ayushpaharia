@@ -13,8 +13,8 @@ A little something **about me**
 
 ```javascript
 const ayush = {
-  languages: ["Javascript", "Typescript", "Golang", "C++", "Solidity"],
-  tools: ["React", "Nextjs", "Nodejs", "Jest", "Cypress", "Docker", "Kubernetes"],
+  languages: ["Javascript", "Typescript", "Golang", "C++", "Python", "Rust"],
+  tools: ["React", "Vue", "Nodejs", "GraphQL","Jest", "Cypress", "Docker", "Kubernetes"],
   cloud: ["AWS", "GCP", "Digital Ocean"],
   architecture: ["microservices", "event-driven", "monoliths"],
   editors: ["VS Code", "Neovim"] 
@@ -26,8 +26,8 @@ try this
 npx ayushpaharia
 ```
 
-🔭 Currently learning  **Serverless** 🔼, **Infra**☁️ and **Blockchain**⛓️\
-📫 How to reach me: mail me at [hi@ayushpaharia.me](mailto:hi@ayushpaharia.me)\
+🔭 Currently exploring  **Serverless** 🔼, **Web Performance**☁️ and **Blockchain**⛓️\
+📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
 💬 Ask me about anything, I'd be happy to help;
 
 📈 my github stats
