@@ -1,6 +1,6 @@
 ![Banner](https://i.postimg.cc/WzgXz1Gr/Genericbanner-1.png)
 
-### hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 [<img align="left" alt="Ayush's Instagram" src="https://img.shields.io/badge/itsayushh_-30302f?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/itsayushh_)
 [<img align="left" src="https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=linkedin"/>](https://linkedin.com/in/ayushpaharia)
