@@ -5,19 +5,19 @@
 [<img align="left" alt="Ayush's Instagram" src="https://img.shields.io/badge/itsayushh_-30302f?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/itsayushh_)
 [<img align="left" src="https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=linkedin"/>](https://linkedin.com/in/ayushpaharia)
 
-[<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://drive.google.com/file/d/1dObU6fjmkYdkv63ypVk2-aLbt7PdeMlW/view?usp=sharing)<br/>
+[<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://drive.google.com/file/d/1FpyOF3rGWi398dI9OAckPcFcT4UoYaeO/view?usp=sharing)<br/>
 
-Currently building my portfolio 👨‍💻
+Currently building Ripen 👨‍💻
 
 A little something **about me**
 
 ```javascript
 const ayush = {
   languages: ["Javascript", "Typescript", "Golang", "C++", "Python", "Rust"],
-  tools: ["React", "Vue", "Nodejs", "GraphQL","Jest", "Cypress", "Docker", "Kubernetes"],
+  tools: ["React", "Vue", "Svelte", "Nodejs", "GraphQL","Jest", "Cypress", "Docker", "Kubernetes"],
   cloud: ["AWS", "GCP", "Digital Ocean"],
-  architecture: ["microservices", "event-driven", "monoliths"],
-  editors: ["VS Code", "Neovim"] 
+  architecture: ["microservices", "event-driven", "monolith"],
+  editors: ["VS Code", "Neovim"]
 }
 ```
 
@@ -26,7 +26,7 @@ try this
 npx ayushpaharia
 ```
 
-🔭 Currently exploring  **Serverless** 🔼, **Web Performance**☁️ and **Blockchain**⛓️\
+🔭 Currently exploring  **Serverless** 🔼, **Web Performance**☁️ and **Solana**⛓️\
 📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
 💬 Ask me about anything, I'd be happy to help;
 
