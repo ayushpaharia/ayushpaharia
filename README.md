@@ -7,7 +7,6 @@
 
 [<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://drive.google.com/file/d/1FpyOF3rGWi398dI9OAckPcFcT4UoYaeO/view?usp=sharing)<br/>
 
-Currently building Ripen 👨‍💻
 
 A little something **about me**
 
