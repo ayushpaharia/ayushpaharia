@@ -5,7 +5,7 @@
 [<img align="left" alt="Ayush's Instagram" src="https://img.shields.io/badge/itsayushh_-30302f?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/itsayushh_)
 [<img align="left" src="https://img.shields.io/badge/ayushpaharia-30302f?style=for-the-badge&logo=linkedin"/>](https://linkedin.com/in/ayushpaharia)
 
-[<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://drive.google.com/file/d/1FpyOF3rGWi398dI9OAckPcFcT4UoYaeO/view?usp=sharing)<br/>
+[<img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/>](https://drive.google.com/file/d/1q-RRwiVGSU0s3LuFC8ci22qEdBE5UAOK/view?usp=sharing)<br/>
 
 
 A little something **about me**
@@ -15,7 +15,7 @@ const ayush = {
   languages: ["Javascript", "Typescript", "Golang", "C++", "Python", "Rust"],
   tools: ["React", "Vue", "Svelte", "Nodejs", "GraphQL","Jest", "Cypress", "Docker", "Kubernetes"],
   cloud: ["AWS", "GCP", "Digital Ocean"],
-  architecture: ["microservices", "event-driven", "monolith"],
+  architectures: ["microservices", "event-driven", "monolith"],
   editors: ["VS Code", "Neovim"]
 }
 ```
@@ -25,7 +25,7 @@ try this
 npx ayushpaharia
 ```
 
-🔭 Currently exploring  **Serverless** 🔼, **Web Performance**☁️ and **Solana**⛓️\
+🔭 Currently exploring  **Serverless** 🔼, **Web Performance**☁️ and **Infrastructure Engineerng**⛓️\
 📫 How to reach me: mail me at [ayush.paharia.18@gmail.com](mailto:ayush.paharia.18@gmail.com)\
 💬 Ask me about anything, I'd be happy to help;
 
